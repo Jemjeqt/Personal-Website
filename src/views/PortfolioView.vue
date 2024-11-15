@@ -20,7 +20,7 @@ export default {
           status: 'Web untuk mencari berbagai Film-film terbaru yang sedang Trend.',
           tech: 'ReactJS, Tailwind, DB Movie api',
           github: 'https://github.com/Jemjeqt/movies',
-          demo: 'null'
+          demo: 'https://jemjee-movies.vercel.app/'
         },
         {
           id: 3,
@@ -57,6 +57,15 @@ export default {
           tech: 'WIX',
           github: 'null',
           demo: 'https://comic2k22.wixsite.com/comic2k22'
+        },
+        {
+          id: 6,
+          name: 'Weather App / V2',
+          imageUrl: 'weatherv2',
+          status: 'Aplikasi sederhana yang dapat berfungsi untuk menampilkan informasi cuaca di suatu tempat tertentu. Dengan pengoptimalan dari versi sebelumnya.',
+          tech: 'React JS, Tailwind, Weather API',
+          github: 'https://github.com/Jemjeqt/WeatherApp-V2',
+          demo: 'null'
         },
         {
           id: 7,
