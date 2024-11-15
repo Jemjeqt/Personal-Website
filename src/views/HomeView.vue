@@ -30,7 +30,7 @@
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300"
         height="300" decoding="async" data-nimg="1"
         class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict"
-        src="https://i1.sndcdn.com/avatars-YJbqX8KrsmnEZXgD-IuQVeA-t500x500.jpg">
+        src="https://i1.sndcdn.com/avatars-Qyeh6adnMPRVlZiP-sp8cyQ-t500x500.jpg">
 
     </div>
   </main>
