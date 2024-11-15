@@ -139,12 +139,17 @@ export default {
             &nbsp; &nbsp; &nbsp; Hi everyone! My name is Azhar Khairu Hafidz. I'm a web developer from Medan, North
             Sumatra. I
             Previously I was an ordinary student at MAN INSAN CENDEKIA, but after joining an organization at school, I
-            became interested in the technology field after entering the Secretariat and Logistics division. My
-            experience in the technology field began when I held a big event website held directly by my old school. Now
-            my interest in the technology field is getting bigger, now, I am at Telkom University. My ultimate goal is to become a Web Developer or more precisely a Full-Stack
-            developer. in my opinion, creating programs is not just a job, but also an art that
+            became interested in the technology field after entering the Secretariat and Logistics division.
             has
             aesthetic value
+          </p>
+          <p class="mb-3 md:mb-7 fadein-left fadeins-1">
+            &nbsp; &nbsp; &nbsp;
+            My experience in the technology field began when I held a big event website held directly by my old school.
+            Now
+            my interest in the technology field is getting bigger, now, I am at Telkom University. My ultimate goal is
+            to become a Web Developer or more precisely a Full-Stack
+            developer. in my opinion, creating programs is not just a job, but also an art that
           </p>
         </div>
 
