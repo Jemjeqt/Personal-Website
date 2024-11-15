@@ -13,7 +13,7 @@
       </div>
       <p class="text-white pr-4 fade-in-from-left">Welcome to My personal website.</p>
       <br>
-      <a href="CV Azhar Khairu Hafidz.pdf" download>
+      <a href="CV Azhar Khairu Hafidz.pdfa" download>
         <button
           class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-amber-200 border-amber-200 hover:bg-amber-200 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="mr-2 w-4 h-4">
