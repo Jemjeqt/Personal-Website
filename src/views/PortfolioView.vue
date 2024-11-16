@@ -91,7 +91,7 @@ export default {
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
           <h4>Project Experience</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
-            Explore the projects I've worked on so far awokwaoawkokoawowakawokkoaw</h4>
+            Explore the projects I've worked on so far</h4>
         </div>
       </header>
 
