@@ -15,7 +15,7 @@
       <br>
       <a href="CV Azhar Khairu Hafidz.pdfa" download>
         <button
-        class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-blue-700 border-blue-700 hover:bg-blue-700 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit">
+          class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-blue-700 border-blue-700 hover:bg-blue-700 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="mr-2 w-4 h-4">
             <path fill-rule="evenodd"
               d="M5.625 1.5H9a3.75 3.75 0 013.75 3.75v1.875c0 1.036.84 1.875 1.875 1.875H16.5a3.75 3.75 0 013.75 3.75v7.875c0 1.035-.84 1.875-1.875 1.875H5.625a1.875 1.875 0 01-1.875-1.875V3.375c0-1.036.84-1.875 1.875-1.875zm5.845 17.03a.75.75 0 001.06 0l3-3a.75.75 0 10-1.06-1.06l-1.72 1.72V12a.75.75 0 00-1.5 0v4.19l-1.72-1.72a.75.75 0 00-1.06 1.06l3 3z"
@@ -28,8 +28,7 @@
       </a>
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300"
-        height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-blue-700 pict"
+        height="300" decoding="async" data-nimg="1" class="w-10/12 md:h-auto rounded-full border-4 border-blue-700 pict"
         src="https://i1.sndcdn.com/avatars-MC6eVtEruUKgsDgY-z7jmDQ-t500x500.jpg">
 
     </div>
@@ -146,13 +145,14 @@ body {
 .pict {
   border: 4px solid #1E3A8A;
   /* Biru tua */
-  box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
-  /* Biru tua */
-  -webkit-box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
-  /* Biru tua */
-  -moz-box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
-  /* Biru tua */
+  box-shadow: 0 0 30px 10px rgba(30, 58, 138, 0.8);
+  /* Efek glow biru tua lebih intens */
+  -webkit-box-shadow: 0 0 30px 10px rgba(30, 58, 138, 0.8);
+  /* Untuk kompatibilitas */
+  -moz-box-shadow: 0 0 30px 10px rgba(30, 58, 138, 0.8);
+  /* Untuk kompatibilitas */
 }
+
 
 .typewrite>.wrap {
   border-right: 0.08em solid #1E3A8A;
