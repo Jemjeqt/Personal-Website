@@ -123,7 +123,7 @@ export default {
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           About Me &nbsp;
-          <div class="h-[1px] w-32 bg-amber-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
+          <div class="h-[1px] w-32 bg-blue-700 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
         </div>
       </header>
@@ -163,7 +163,7 @@ export default {
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           Resume &nbsp;
-          <div class="h-[1px] w-32 bg-amber-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
+          <div class="h-[1px] w-32 bg-blue-700 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
         </div>
       </header>
@@ -288,7 +288,7 @@ export default {
         <div
           class="text-2xl font-bold text-white mb-5 animate__animated animate__bounceInDown title-section flex items-center">
           Skill &nbsp;
-          <div class="h-[1px] w-32 bg-amber-200 md:w-96 animate__animated animate__lightSpeedInLeft"
+          <div class="h-[1px] w-32 bg-blue-700 md:w-96 animate__animated animate__lightSpeedInLeft"
             data-aos-duration="600"></div>
         </div>
       </header>
@@ -297,12 +297,12 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white animate__animated animate__flipInX"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech
+                :class="{ 'text-amber-200 bg-blue-700 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech
                 Stack</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white animate__animated animate__flipInX"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }"
+                :class="{ 'text-amber-200 bg-blue-700 bg-opacity-10': activeTab === 2 }"
                 @click="activeTab = 2">Tools</button>
             </li>
           </ul>
