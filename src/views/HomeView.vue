@@ -144,9 +144,19 @@ body {
 }
 
 .pict {
-  box-shadow: 0px 0px 73px -9px rgba(255, 219, 112, 0.44);
-  -webkit-box-shadow: 0px 0px 73px -9px rgba(255, 219, 112, 0.44);
-  -moz-box-shadow: 0px 0px 73px -9px rgba(255, 219, 112, 0.44);
+  border: 4px solid #1E3A8A;
+  /* Biru tua */
+  box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
+  /* Biru tua */
+  -webkit-box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
+  /* Biru tua */
+  -moz-box-shadow: 0px 0px 73px -9px rgba(30, 58, 138, 0.44);
+  /* Biru tua */
+}
+
+.typewrite>.wrap {
+  border-right: 0.08em solid #1E3A8A;
+  /* Biru tua */
 }
 
 .fadein-up {
