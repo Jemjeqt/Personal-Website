@@ -11,7 +11,7 @@
           <span class="wrap">{{ txt }}</span>
         </h1>
       </div>
-      <p class="text-white pr-4 fade-in-from-left">Welcome to My personal website Brokhh.</p>
+      <p class="text-white pr-4 fade-in-from-left">Welcome to My personal website.</p>
       <br>
       <a href="CV Azhar Khairu Hafidz.pdfa" download>
         <button
