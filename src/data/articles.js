@@ -59,5 +59,15 @@ export const articles = [
     image: "/img/ReactJS.png",
     tags: ["React", "Frontend"],
     author: "Azhar Khairu Hafidz"
+  },
+  {
+    id: 7,
+    slug: "react-hooks-introduction",
+    title: "Pengantar React Hooks: Panduan Lengkap",
+    desc: "React Hooks memperkenalkan cara baru dalam mengelola state dan efek samping dalam komponen fungsional di React. Artikel ini membahas dasar-dasar React Hooks seperti useState, useEffect, dan useContext, serta menjelaskan kapan dan bagaimana cara menggunakannya. Dengan contoh-contoh yang jelas, Anda akan memahami bagaimana Hooks dapat membuat kode lebih bersih dan terstruktur. Artikel ini cocok bagi pemula maupun yang sudah familiar dengan React yang ingin belajar lebih lanjut tentang pendekatan fungsional dalam React.",
+    date: "21 Nov 2022",
+    image: "/img/ReactJS.png",
+    tags: ["React", "Frontend"],
+    author: "Azhar Khairu Hafidz"
   }
 ];
